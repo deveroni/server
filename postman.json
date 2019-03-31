@@ -1,0 +1,50 @@
+{
+	"variables": [],
+	"info": {
+		"name": "server",
+		"_postman_id": "e022da42-a677-712a-2556-2b8d630893d6",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "auth",
+			"description": "",
+			"item": [
+				{
+					"name": "Login",
+					"request": {
+						"url": "",
+						"method": "GET",
+						"header": [],
+						"body": {},
+						"description": ""
+					},
+					"response": []
+				},
+				{
+					"name": "Register",
+					"request": {
+						"url": "",
+						"method": "GET",
+						"header": [],
+						"body": {},
+						"description": ""
+					},
+					"response": []
+				},
+				{
+					"name": "Hash my password SHA256",
+					"request": {
+						"url": "",
+						"method": "GET",
+						"header": [],
+						"body": {},
+						"description": ""
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
